@@ -20,8 +20,8 @@ This project implements automatic car license plate detection using YOLO v8, and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Nihar59/Computer_Vision
-   cd Computer_Vision/License_Plate_Detection
+   git clone https://github.com/Nihar59/CV
+   cd CV/License_Plate_Detection
    ```
 
 2. Install dependencies:
